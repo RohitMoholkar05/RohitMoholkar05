@@ -13,3 +13,5 @@
 - 🐍 Proficient in Python for data extraction, cleaning, transformation, EDA, and machine learning
 - ☁️ Hands-on exposure to cloud platforms including Fabric, Databricks, and AWS for building analytical workflows
 - 🏅 Backed by 6 industry-recognized certifications from Microsoft, Oracle, Databricks, CompTIA, Google, and Cisco
+
+--- 
