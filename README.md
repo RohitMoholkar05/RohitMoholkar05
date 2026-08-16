@@ -29,3 +29,15 @@
 Browse more projects across: [Machine Learning](https://github.com/rohit-moholkar/machine-learning) • [Data Analytics](https://github.com/rohit-moholkar/data-analytics) • [Web Scraping](https://github.com/rohit-moholkar/web-scraping) • [Software Development](https://github.com/rohit-moholkar/software-development)
 
 --- 
+### Certifications
+
+| Certification | Verification |
+|---|---|
+| Microsoft Certified: Power BI Data Analyst Associate (PL-300) | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/RohitMoholkar-6713/27E59985A8E9CDEA?sharingId=F5F66738C68B153C) |
+| Oracle Database SQL Certified Associate (1Z0-071) | [Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E5C136B9C1C3F004B3808086D5106F50AC6EB9E0C1CE037751D9DBF452413504) |
+| Databricks Certified Data Analyst Associate | [Verify](https://credentials.databricks.com/04178cde-e897-468b-9acb-0c72c517b6d4) |
+| CompTIA Data+ V2 (DA0-002) | [Verify](https://www.credly.com/badges/3f4a999a-74f0-4ba1-8a00-89ec7aca5a5b/public_url) |
+| Google Data Analytics Professional Certificate | [Verify](https://coursera.org/verify/professional-cert/WJYA808CBM4T) |
+| Cisco Data Analytics Essentials | [Verify](https://www.credly.com/badges/a16f0eff-bc67-4494-a322-aa09d1575c93/public_url) |
+
+**View credential portfolio:** [Credly](https://www.credly.com/users/rohit-moholkar)
