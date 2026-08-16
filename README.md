@@ -38,7 +38,7 @@ Browse more projects across: [Machine Learning](https://github.com/rohit-moholka
 | Databricks Certified Data Analyst Associate | [Verify](https://credentials.databricks.com/04178cde-e897-468b-9acb-0c72c517b6d4) |
 | CompTIA Data+ V2 (DA0-002) | [Verify](https://www.credly.com/badges/3f4a999a-74f0-4ba1-8a00-89ec7aca5a5b/public_url) |
 | Google Data Analytics Professional Certificate | [Verify](https://coursera.org/verify/professional-cert/WJYA808CBM4T) |
-| Cisco Data Analytics Essentials | [Verify](https://www.credly.com/badges/a16f0eff-bc67-4494-a322-aa09d1575c93/public_url) |
+| Cisco Academy Certified Data Analytics Essentials | [Verify](https://www.credly.com/badges/a16f0eff-bc67-4494-a322-aa09d1575c93/public_url) |
 
 View credential portfolios on
 
