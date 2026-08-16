@@ -15,3 +15,7 @@
 - 🏅 Backed by 6 industry-recognized certifications from Microsoft, Oracle, Databricks, CompTIA, Google, and Cisco
 
 --- 
+
+### Portfolio
+
+📂 Explore repositories for a curated selection of academic and personal projects, presented with source code, detailed documentation, and supporting artifacts. 
