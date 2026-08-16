@@ -24,6 +24,6 @@
 
 | Project | Overview |
 |---|---|
-| **[Data Technology Ecosystem Intelligence](PROJECT_LINK)** | End-to-end Microsoft Fabric analytics platform integrating GitHub, Stack Overflow, and Hacker News data through a medallion architecture and Power BI reporting. |
+| **[Data Technology Ecosystem Intelligence](https://github.com/rohit-moholkar/data-technology-ecosystem-intelligence)** | End-to-end Fabric solution ingesting 11K+ activity records across 9 technologies from GitHub, Stack Overflow, and Hacker News through a medallion architecture into a 9-table Gold dimensional model, with a 5-page Power BI report. |
 | **[Loan Performance & Credit Risk Analytics](PROJECT_LINK)** | Power BI solution analyzing loan portfolio performance, borrower characteristics, default risk, and regional trends using a dimensional model and DAX. |
 | **[MSc Dissertation – Statistical Analysis & Predictive Modeling](PROJECT_LINK)** | Python-based statistical and machine learning project using 225K+ IPL ball-by-ball records to analyze performance and model in-game win probability. |
