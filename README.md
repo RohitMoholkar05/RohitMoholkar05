@@ -18,4 +18,4 @@
 
 ### Portfolio
 
-📂 Explore repositories for a curated selection of academic and personal projects, presented with source code, detailed documentation, and supporting artifacts. 
+📂 Explore repositories for a curated selection of projects, presented with source code, detailed documentation, and supporting artifacts. 
