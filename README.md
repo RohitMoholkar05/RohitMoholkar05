@@ -26,6 +26,6 @@
 | **[Loan Performance and Credit Risk Analytics](https://github.com/rohit-moholkar/loan-performance-credit-risk-analytics)** | End-to-end Power BI solution transforming 38K+ applications into a star-schema model with 1 fact table, 6 dimensions, and 26 DAX measures, delivering a 6-page interactive report on default drivers, borrower profiles, and regional insights, with decomposition-tree analysis and drill-through detail. |
 | **[Statistical Analysis and Predictive Modeling](https://github.com/rohit-moholkar/msc-dissertation)** | MSc dissertation — Analyzed 225K+ ball-by-ball records across 950 IPL matches to evaluate player and team performance. Engineered game-state features and built an ML pipeline with one-hot encoding and logistic regression to predict win probability, achieving 81.16% test and 80.86% 5-fold CV accuracy. |
 
-**Browse more:** [Machine Learning](https://github.com/rohit-moholkar/machine-learning) • [Data Analytics](https://github.com/rohit-moholkar/data-analytics) • [Web Scraping](https://github.com/rohit-moholkar/web-scraping) • [Software Development](https://github.com/rohit-moholkar/software-development)
+Browse more projects across: [Machine Learning](https://github.com/rohit-moholkar/machine-learning) • [Data Analytics](https://github.com/rohit-moholkar/data-analytics) • [Web Scraping](https://github.com/rohit-moholkar/web-scraping) • [Software Development](https://github.com/rohit-moholkar/software-development)
 
 --- 
