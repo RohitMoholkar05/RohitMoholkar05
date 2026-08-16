@@ -24,6 +24,6 @@
 
 | Project | Overview |
 |---|---|
-| **[Data Technology Ecosystem Intelligence](https://github.com/rohit-moholkar/data-technology-ecosystem-intelligence)** | End-to-end Fabric solution ingesting 11K+ activity records across 9 technologies from GitHub, Stack Overflow, and Hacker News, implementing a medallion architecture with PySpark, Dataflow Gen2, and a SQL Warehouse to produce a 9-table Gold dimensional model and 5-page Power BI report. |
+| **[Data Technology Ecosystem Intelligence](https://github.com/rohit-moholkar/data-technology-ecosystem-intelligence)** | End-to-end Fabric solution ingesting 11K+ activity records across 9 technologies from GitHub, Stack Overflow, and Hacker News, using a medallion architecture with PySpark notebooks, Dataflow Gen2, and a SQL Warehouse to produce a 9-table Gold dimensional model and 5-page Power BI report. |
 | **[Loan Performance & Credit Risk Analytics](PROJECT_LINK)** | Power BI solution analyzing loan portfolio performance, borrower characteristics, default risk, and regional trends using a dimensional model and DAX. |
 | **[MSc Dissertation – Statistical Analysis & Predictive Modeling](PROJECT_LINK)** | Python-based statistical and machine learning project using 225K+ IPL ball-by-ball records to analyze performance and model in-game win probability. |
