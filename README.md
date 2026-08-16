@@ -40,4 +40,19 @@ Browse more projects across: [Machine Learning](https://github.com/rohit-moholka
 | Google Data Analytics Professional Certificate | [Verify](https://coursera.org/verify/professional-cert/WJYA808CBM4T) |
 | Cisco Data Analytics Essentials | [Verify](https://www.credly.com/badges/a16f0eff-bc67-4494-a322-aa09d1575c93/public_url) |
 
-**View credential portfolio:** [Credly](https://www.credly.com/users/rohit-moholkar)
+View credential portfolios on
+
+[![Credly](https://img.shields.io/badge/Credly-Credential%20Portfolio-orange)](https://www.credly.com/users/rohit-moholkar)
+[![Accredible](https://img.shields.io/badge/Accredible-Credential%20Portfolio-blue)](https://www.credential.net/profile/rohit-moholkar/wallet) 
+
+---
+
+### Connect
+
+I'm always happy to connect 🤝 with people in tech around opportunities, collaboration, or simply exchanging ideas.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-rohitmoholkar5%40gmail.com-red?logo=gmail)](mailto:rohitmoholkar5@gmail.com)
+[![X](https://img.shields.io/badge/X-Follow-black?logo=x)](https://x.com/rohit_moholkar)
+
+---
