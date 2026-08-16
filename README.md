@@ -56,5 +56,3 @@ I'm always happy to connect 🤝 with people in tech around opportunities, colla
 [![X](https://img.shields.io/badge/X-Follow-black?logo=x)](https://x.com/rohit_moholkar)
 
 ---
-
-Thank you! 🙂
