@@ -25,5 +25,5 @@
 | Project | Overview |
 |---|---|
 | **[Data Technology Ecosystem Intelligence](https://github.com/rohit-moholkar/data-technology-ecosystem-intelligence)** | End-to-end Fabric solution ingesting 11K+ activity records across 9 technologies from GitHub, Stack Overflow, and Hacker News, using a medallion architecture with PySpark notebooks, Dataflow Gen2, and a SQL Warehouse to produce a 9-table Gold dimensional model and 5-page Power BI report. |
-| **[Loan Performance & Credit Risk Analytics](PROJECT_LINK)** | Power BI solution analyzing loan portfolio performance, borrower characteristics, default risk, and regional trends using a dimensional model and DAX. |
+| **[Loan Performance & Credit Risk Analytics](https://github.com/rohit-moholkar/loan-performance-credit-risk-analytics)** | End-to-end Power BI solution transforming 38K+ loan applications into a star-schema semantic model with 1 fact table, 6 dimensions, and 26 DAX measures, delivering a 6-page interactive report on portfolio performance, default drivers, borrower profiles, and regional insights. |
 | **[MSc Dissertation – Statistical Analysis & Predictive Modeling](PROJECT_LINK)** | Python-based statistical and machine learning project using 225K+ IPL ball-by-ball records to analyze performance and model in-game win probability. |
